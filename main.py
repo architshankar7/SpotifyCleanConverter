@@ -1,4 +1,3 @@
-#import typical python fucntions
 import os
 
 #attempt to include spotipy library
